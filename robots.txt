@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jouxeelei.spacemagic.io/sitemap.xml
